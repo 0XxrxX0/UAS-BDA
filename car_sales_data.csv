@@ -1,0 +1,1001 @@
+Year,Brand,Type,Mileage,Condition,Price
+2006,Honda,Convertible,174316,Used,13056.0
+2019,Ford,Sedan,79964,New,25105.0
+2014,BMW,Truck,173509,New,18307.0
+2010,Honda,Coupe,124006,Used,21737.0
+2007,Audi,SUV,55583,Used,11487.2
+2020,Honda,Sedan,43392,New,29893.600000000002
+2006,Toyota,Convertible,12461,New,10125.9
+2018,Toyota,Sedan,105123,Certified Pre-Owned,27366.0
+2010,BMW,Convertible,15516,New,12413.6
+2010,Ford,Truck,153586,Certified Pre-Owned,16180.800000000001
+2020,BMW,Coupe,126251,Certified Pre-Owned,26374.5
+2003,BMW,Truck,172340,Certified Pre-Owned,16570.0
+2007,BMW,SUV,172860,Used,13495.2
+2002,BMW,Sedan,197121,Used,12635.1
+2020,Audi,Convertible,67493,New,31780.100000000002
+2001,Audi,Convertible,41027,Certified Pre-Owned,10991.2
+2011,Honda,Sedan,98547,Used,18657.100000000002
+2005,Toyota,Sedan,178921,Used,11863.0
+2001,BMW,SUV,105127,Used,10442.7
+2020,Honda,Truck,153930,Used,25710.3
+2000,Toyota,Convertible,84003,Used,8410.4
+2011,Ford,SUV,188467,Certified Pre-Owned,15204.0
+2011,Audi,Truck,44758,Certified Pre-Owned,19291.2
+2016,Toyota,SUV,59312,Certified Pre-Owned,18164.7
+2009,Ford,Convertible,73670,Certified Pre-Owned,16604.0
+2015,Toyota,Sedan,87279,New,20122.2
+2014,Audi,Sedan,20434,Certified Pre-Owned,22153.5
+2014,Audi,Truck,183847,Used,30349.000000000004
+2018,Honda,Coupe,80769,Certified Pre-Owned,23037.600000000002
+2011,BMW,Truck,71677,New,26100.800000000003
+2019,Toyota,Coupe,88555,Used,30678.0
+2002,Toyota,SUV,133379,Certified Pre-Owned,11698.0
+2004,Ford,SUV,181806,Certified Pre-Owned,9273.0
+2018,Audi,Convertible,106665,Certified Pre-Owned,25787.7
+2006,Toyota,Coupe,176675,Used,9986.4
+2020,Audi,Convertible,73803,Used,30147.3
+2008,Toyota,Sedan,175404,New,16885.600000000002
+2006,Honda,Coupe,96703,Used,19802.2
+2017,BMW,Truck,26312,Used,22722.3
+2003,Toyota,Sedan,180251,Certified Pre-Owned,17842.0
+2013,Audi,Sedan,122961,Used,24545.4
+2017,Honda,Truck,45379,Certified Pre-Owned,26789.4
+2008,Toyota,Sedan,22297,Certified Pre-Owned,9816.0
+2020,Ford,Coupe,7011,Used,20148.800000000003
+2001,BMW,Convertible,125234,New,11305.0
+2019,Toyota,Sedan,49014,New,25398.0
+2014,Honda,Coupe,147810,Used,27494.500000000004
+2006,Ford,SUV,99333,New,17299.0
+2011,Honda,Coupe,183570,Certified Pre-Owned,21100.2
+2007,Honda,Convertible,16120,Certified Pre-Owned,16722.4
+2014,Ford,Coupe,144839,Used,16184.0
+2002,Honda,Truck,27852,New,10008.800000000001
+2013,Ford,Convertible,84239,New,15415.2
+2016,Toyota,SUV,137001,Certified Pre-Owned,32407.100000000002
+2003,Ford,Truck,96575,Used,8537.6
+2017,Ford,Coupe,100040,New,33872.3
+2007,BMW,Convertible,153510,Used,15765.0
+2003,Ford,SUV,184587,New,10970.0
+2001,Ford,Truck,10744,Certified Pre-Owned,10036.0
+2005,Toyota,SUV,178489,Certified Pre-Owned,16007.2
+2009,BMW,Coupe,143141,Used,10901.6
+2003,Audi,SUV,47359,Certified Pre-Owned,13589.0
+2017,Toyota,Sedan,155871,New,18435.2
+2011,Toyota,Truck,103746,Certified Pre-Owned,19075.100000000002
+2001,Audi,SUV,125906,Used,10884.0
+2009,Ford,Coupe,12597,Used,19066.5
+2003,Honda,Coupe,52093,Used,7249.0
+2013,BMW,SUV,173298,New,17932.5
+2015,Honda,Coupe,119650,New,19234.4
+2014,Audi,Convertible,162489,New,15179.2
+2007,Toyota,Convertible,154765,New,22568.7
+2013,Toyota,Convertible,125956,New,21772.8
+2007,BMW,Sedan,120598,Certified Pre-Owned,16140.0
+2020,Toyota,SUV,189233,New,29772.0
+2015,Toyota,Sedan,138241,New,17337.600000000002
+2012,BMW,Coupe,158124,Certified Pre-Owned,23279.0
+2017,BMW,Sedan,13036,New,22824.800000000003
+2014,Audi,Coupe,36778,Used,30269.800000000003
+2020,Toyota,Coupe,163806,New,32662.0
+2012,Toyota,Truck,159245,New,19785.7
+2008,Audi,Convertible,166475,Used,12090.0
+2014,Ford,Coupe,142416,Used,24048.9
+2012,Ford,Truck,23800,Used,22064.9
+2000,Ford,Convertible,30372,Used,5418.400000000001
+2006,Audi,Coupe,66516,New,17890.2
+2008,Toyota,Coupe,25538,Used,16306.400000000001
+2000,Audi,Sedan,68918,Used,11409.0
+2011,Audi,Sedan,151045,Certified Pre-Owned,19440.0
+2007,Ford,Convertible,76155,Used,14677.6
+2010,Honda,Coupe,64500,Used,12006.400000000001
+2018,Toyota,SUV,172647,Certified Pre-Owned,23204.7
+2016,Ford,Sedan,178333,Certified Pre-Owned,21316.800000000003
+2007,Honda,Convertible,115659,New,16827.800000000003
+2002,Honda,Coupe,32716,Certified Pre-Owned,11734.800000000001
+2002,BMW,Coupe,139308,New,8229.6
+2000,Toyota,SUV,151920,Certified Pre-Owned,6657.200000000001
+2004,Honda,Convertible,7352,Certified Pre-Owned,11207.2
+2009,Ford,Coupe,138004,New,13244.4
+2006,BMW,Sedan,81449,Certified Pre-Owned,11341.000000000002
+2008,Toyota,SUV,13556,New,18191.800000000003
+2006,Audi,Convertible,91836,Certified Pre-Owned,9008.0
+2008,Ford,SUV,141570,Used,17525.2
+2007,Honda,Sedan,55098,Certified Pre-Owned,11584.0
+2011,Honda,Convertible,117169,New,20354.4
+2001,Ford,SUV,145641,Certified Pre-Owned,12195.9
+2000,Honda,Truck,131060,New,7552.6
+2015,BMW,Sedan,192954,New,27387.800000000003
+2004,Toyota,Sedan,135544,Used,10011.0
+2002,BMW,Sedan,5340,Used,12251.0
+2011,Honda,Truck,180021,New,21932.9
+2007,Audi,Truck,87302,Certified Pre-Owned,16506.600000000002
+2002,Toyota,Coupe,198515,New,7625.0
+2000,Toyota,SUV,5138,New,3912.0
+2002,Ford,Coupe,136430,Certified Pre-Owned,12078.0
+2004,Ford,SUV,124619,Certified Pre-Owned,12028.800000000001
+2014,Audi,Truck,90376,Certified Pre-Owned,24230.7
+2013,Toyota,Truck,104931,Certified Pre-Owned,18864.9
+2002,Audi,Coupe,166726,New,8504.0
+2000,Ford,Convertible,161951,New,10244.800000000001
+2004,Ford,Coupe,86532,Used,11806.0
+2013,Toyota,SUV,60778,New,23100.0
+2006,BMW,Coupe,42772,Certified Pre-Owned,9375.2
+2008,Honda,Sedan,63478,Used,18686.0
+2014,Ford,SUV,31762,Certified Pre-Owned,17628.3
+2014,Ford,SUV,149355,New,27500.000000000004
+2009,BMW,Convertible,199994,Used,25083.300000000003
+2012,BMW,Truck,175492,Certified Pre-Owned,16896.0
+2018,Audi,SUV,60568,Used,22046.4
+2006,Audi,Truck,90090,Used,14775.2
+2016,Honda,Coupe,25219,New,22182.3
+2019,Honda,Sedan,62169,Certified Pre-Owned,26262.4
+2003,Toyota,Convertible,79965,Used,7545.6
+2004,Audi,Truck,182912,Used,10713.6
+2006,Ford,SUV,180767,Certified Pre-Owned,16837.0
+2012,Audi,Truck,89754,Used,19193.9
+2014,Ford,SUV,82988,Used,20250.0
+2010,BMW,Truck,194414,Used,19454.0
+2003,Audi,SUV,155023,Certified Pre-Owned,14781.6
+2012,BMW,Coupe,137379,Certified Pre-Owned,20117.0
+2006,Honda,SUV,85388,Certified Pre-Owned,16982.100000000002
+2018,Honda,SUV,95768,Certified Pre-Owned,24028.0
+2001,Toyota,Sedan,40428,New,10660.5
+2009,Audi,SUV,97021,Used,16758.0
+2012,BMW,Sedan,123418,Certified Pre-Owned,19713.600000000002
+2020,Ford,Convertible,175047,Used,31486.4
+2005,Honda,Sedan,137212,Used,19632.800000000003
+2011,Honda,Coupe,160914,New,12132.0
+2011,Ford,Sedan,31421,Certified Pre-Owned,19591.0
+2019,BMW,Convertible,6708,Certified Pre-Owned,21230.100000000002
+2010,BMW,Coupe,139702,Used,18524.0
+2006,Audi,Truck,155667,Certified Pre-Owned,14103.1
+2000,Audi,Truck,81021,Used,10509.0
+2000,Toyota,Sedan,164380,Used,10523.7
+2019,Honda,Sedan,49789,New,32454.0
+2012,Audi,Convertible,191762,New,14463.9
+2008,BMW,Convertible,31086,New,17138.0
+2002,Ford,SUV,21859,Used,15358.2
+2006,BMW,Convertible,12684,Certified Pre-Owned,11294.800000000001
+2005,Honda,SUV,96088,New,15174.400000000001
+2007,BMW,Coupe,137279,Certified Pre-Owned,14808.2
+2008,Toyota,Sedan,51099,New,21460.0
+2004,Honda,Coupe,71093,New,7212.0
+2000,Ford,Convertible,165761,Used,14602.500000000002
+2018,Toyota,Coupe,53651,New,29984.0
+2009,Honda,Coupe,18893,New,13406.0
+2011,Ford,Coupe,71418,Used,22384.0
+2014,Toyota,Convertible,130074,Certified Pre-Owned,21644.100000000002
+2008,Toyota,Coupe,108065,New,14535.2
+2019,Honda,SUV,135351,Used,30982.0
+2016,Audi,Convertible,196083,New,18886.5
+2016,Toyota,Coupe,43635,Used,26933.500000000004
+2019,Toyota,Convertible,192187,Certified Pre-Owned,31901.0
+2011,Ford,Truck,100071,Certified Pre-Owned,15856.2
+2006,BMW,SUV,83518,Used,16289.0
+2001,Honda,Coupe,111233,Used,11682.400000000001
+2002,Honda,Truck,108651,Used,10342.400000000001
+2016,Audi,Truck,77805,Certified Pre-Owned,27904.800000000003
+2004,Audi,Convertible,195026,New,12621.0
+2016,Honda,Truck,164136,Certified Pre-Owned,26709.3
+2016,Audi,SUV,127813,Used,30322.600000000002
+2016,Ford,SUV,84063,Used,24670.0
+2001,Honda,Sedan,7454,Certified Pre-Owned,13923.800000000001
+2001,Audi,SUV,25878,Used,5402.7
+2004,Honda,Truck,187170,Certified Pre-Owned,17054.4
+2000,BMW,SUV,198226,Used,7112.6
+2000,Toyota,Convertible,149063,New,6532.900000000001
+2018,Honda,Sedan,73344,New,23635.0
+2001,Toyota,Truck,109946,Used,13401.0
+2020,Audi,Sedan,41593,Certified Pre-Owned,25676.0
+2011,Toyota,Truck,41304,New,21265.0
+2005,Honda,Convertible,166458,Certified Pre-Owned,8716.0
+2003,BMW,Sedan,191292,Used,10819.2
+2010,Audi,Coupe,118613,Certified Pre-Owned,15073.0
+2016,Honda,Truck,157155,New,25184.0
+2005,Audi,Coupe,23354,Certified Pre-Owned,10261.800000000001
+2004,Ford,Sedan,27190,Certified Pre-Owned,11605.5
+2019,Toyota,Coupe,11142,Used,33364.100000000006
+2001,Ford,Coupe,164470,Used,11474.400000000001
+2005,Honda,Sedan,188043,Used,9860.4
+2010,BMW,Convertible,46862,New,23125.300000000003
+2015,Audi,Coupe,189482,New,20616.3
+2015,Toyota,Coupe,155575,Used,19807.0
+2000,Audi,Convertible,130438,Used,11140.2
+2008,Honda,Coupe,53456,New,13461.6
+2005,Audi,Coupe,105167,New,12171.6
+2015,Toyota,Coupe,87035,New,22799.2
+2002,Honda,SUV,13016,New,8284.0
+2019,Audi,Convertible,7384,Used,22650.4
+2003,BMW,Coupe,198392,New,6981.3
+2018,Honda,Convertible,151144,Used,29575.7
+2002,Honda,Truck,107239,Certified Pre-Owned,9854.0
+2018,BMW,Truck,116431,Certified Pre-Owned,23002.2
+2019,Ford,Coupe,85018,New,32772.0
+2006,Toyota,Convertible,45510,Certified Pre-Owned,10961.0
+2019,Ford,Convertible,185005,Certified Pre-Owned,24162.3
+2008,Audi,Convertible,26826,Certified Pre-Owned,16853.4
+2000,BMW,SUV,73026,New,8332.5
+2007,Ford,Truck,126668,New,20067.0
+2006,Honda,Convertible,161590,Certified Pre-Owned,12418.0
+2017,Audi,Convertible,29045,Used,22678.2
+2007,Audi,SUV,186948,Certified Pre-Owned,9600.800000000001
+2000,Ford,SUV,95102,New,8319.6
+2010,Ford,Convertible,56919,New,21119.0
+2017,BMW,Sedan,104441,New,22559.4
+2009,Toyota,Convertible,163175,Certified Pre-Owned,17429.5
+2002,Ford,Convertible,172260,Used,12538.400000000001
+2006,Ford,SUV,141917,New,16964.100000000002
+2015,Honda,SUV,172746,New,26747.600000000002
+2015,Audi,Convertible,123325,Certified Pre-Owned,19422.0
+2019,Toyota,Convertible,24337,Used,26743.5
+2016,Honda,Convertible,158385,Certified Pre-Owned,24266.0
+2001,BMW,SUV,163015,New,13803.900000000001
+2000,BMW,Convertible,82949,Used,10316.0
+2015,Ford,Convertible,5276,Used,23881.000000000004
+2011,Ford,Coupe,56151,New,26008.4
+2004,BMW,Sedan,153683,Used,17675.9
+2004,Ford,Truck,148016,Used,8691.300000000001
+2008,Toyota,Sedan,57887,Certified Pre-Owned,14541.0
+2008,Ford,Coupe,86442,New,18763.0
+2002,Audi,Truck,54847,New,7260.0
+2018,Ford,Convertible,63653,New,20131.2
+2015,Honda,Coupe,61622,New,16842.4
+2015,Toyota,Convertible,32810,New,21983.2
+2002,Honda,SUV,82842,Used,11737.0
+2019,Honda,Coupe,127225,Certified Pre-Owned,28838.7
+2000,Audi,SUV,15503,New,5991.700000000001
+2019,Toyota,Coupe,89761,Certified Pre-Owned,26108.100000000002
+2010,Toyota,Coupe,173048,Certified Pre-Owned,16067.7
+2016,Toyota,SUV,131439,Used,24552.0
+2007,Toyota,Truck,16590,New,12764.0
+2003,Toyota,Sedan,146958,Used,16417.0
+2005,Audi,Convertible,148938,New,16584.3
+2007,Ford,Coupe,71624,Used,16176.800000000001
+2019,Honda,Convertible,168864,Certified Pre-Owned,28238.100000000002
+2002,Toyota,SUV,145836,New,12519.0
+2015,Ford,Convertible,125356,Certified Pre-Owned,22962.0
+2002,Ford,SUV,47727,Certified Pre-Owned,7341.6
+2017,Honda,Convertible,83471,Used,24722.0
+2013,Audi,Sedan,13068,New,24096.600000000002
+2017,BMW,Sedan,121923,Certified Pre-Owned,25436.7
+2001,BMW,Sedan,143367,Used,10054.0
+2002,Ford,Sedan,177232,New,17233.7
+2015,Honda,Sedan,16390,New,19808.0
+2008,BMW,Sedan,111752,Certified Pre-Owned,16936.0
+2003,Ford,SUV,156203,New,7725.0
+2000,Audi,Coupe,99754,Certified Pre-Owned,11701.0
+2003,BMW,Convertible,80969,New,7394.400000000001
+2000,Ford,Sedan,151110,Used,6440.8
+2013,Ford,SUV,188399,Certified Pre-Owned,15357.6
+2020,Toyota,SUV,82064,Certified Pre-Owned,24125.4
+2015,Audi,SUV,26281,New,27970.0
+2019,Toyota,Coupe,59189,New,26369.2
+2007,Honda,Convertible,53511,Certified Pre-Owned,13307.2
+2006,Toyota,Coupe,127115,New,13986.400000000001
+2002,Toyota,Truck,13605,Used,8123.0
+2016,BMW,SUV,105318,New,28790.0
+2000,Ford,Truck,137453,Used,3379.2000000000003
+2015,Audi,Sedan,24810,Used,28032.0
+2011,Toyota,Sedan,160394,Used,18495.4
+2018,Audi,Coupe,46869,Used,18484.8
+2013,Toyota,Convertible,37955,Used,18836.4
+2005,Honda,Truck,66388,New,13470.6
+2005,Toyota,Convertible,15207,Used,11931.0
+2012,BMW,Coupe,164292,New,20868.100000000002
+2018,Ford,Sedan,27031,Used,24017.0
+2007,Honda,Convertible,85807,Certified Pre-Owned,16573.5
+2001,Toyota,Convertible,76312,Used,7415.0
+2020,Audi,Sedan,64766,Certified Pre-Owned,29805.600000000002
+2000,Honda,Truck,148521,Used,5048.1
+2014,Honda,Sedan,94833,Used,18717.0
+2000,Toyota,Convertible,192771,Used,8317.1
+2004,Honda,Truck,116041,Certified Pre-Owned,13766.400000000001
+2015,Audi,Truck,121185,Certified Pre-Owned,20625.600000000002
+2018,Honda,Sedan,182164,Used,23048.0
+2003,Audi,Convertible,199743,New,16549.0
+2002,Toyota,Coupe,15350,Used,11445.6
+2016,Ford,Convertible,105859,Certified Pre-Owned,30695.500000000004
+2016,Honda,SUV,73487,Used,32992.3
+2011,Ford,Coupe,153694,Certified Pre-Owned,22635.800000000003
+2013,Audi,Truck,128853,Certified Pre-Owned,18620.0
+2020,Honda,Coupe,58117,Certified Pre-Owned,27493.2
+2005,BMW,Truck,194466,Used,14742.9
+2002,Ford,Truck,106084,Certified Pre-Owned,9702.0
+2008,Honda,Coupe,28782,Certified Pre-Owned,14212.800000000001
+2004,Ford,Truck,33454,Used,9846.9
+2016,Honda,Truck,72904,Certified Pre-Owned,25695.0
+2013,Toyota,SUV,134936,Used,23401.0
+2020,Ford,Convertible,151664,Certified Pre-Owned,29852.100000000002
+2002,BMW,Convertible,158245,New,12197.0
+2000,BMW,SUV,169276,New,9450.0
+2019,Audi,Coupe,171668,Certified Pre-Owned,28777.5
+2020,Honda,Sedan,170396,New,35675.200000000004
+2000,Ford,Sedan,127258,Used,9874.0
+2002,Audi,Sedan,116668,New,8308.300000000001
+2017,Ford,SUV,197274,Certified Pre-Owned,22012.0
+2009,Honda,SUV,129184,Certified Pre-Owned,21378.0
+2002,BMW,Truck,166822,Used,7092.900000000001
+2007,Toyota,Sedan,21566,Certified Pre-Owned,17799.0
+2013,BMW,Coupe,143262,Used,17268.8
+2017,Audi,Coupe,43333,New,23697.600000000002
+2014,Toyota,Sedan,126929,New,23787.0
+2001,Audi,Sedan,94571,Used,12591.7
+2009,Honda,Sedan,125263,Used,16879.5
+2001,Toyota,SUV,137661,Certified Pre-Owned,5582.5
+2016,Audi,SUV,30235,New,23638.4
+2007,Honda,SUV,5159,Used,18564.7
+2000,BMW,Convertible,148217,New,11863.500000000002
+2008,Honda,Coupe,167993,Used,15229.800000000001
+2010,Ford,Coupe,109859,New,24299.000000000004
+2015,Honda,Truck,152309,Certified Pre-Owned,17064.0
+2006,Honda,SUV,112507,New,11748.800000000001
+2009,Ford,Convertible,144316,New,11921.6
+2002,Audi,Convertible,19743,New,9603.0
+2017,Audi,Coupe,51101,New,25328.7
+2012,Honda,SUV,126534,New,18059.0
+2006,Ford,Truck,89227,Certified Pre-Owned,11154.0
+2003,Ford,SUV,192450,Used,7910.1
+2012,BMW,Sedan,76126,New,12812.800000000001
+2019,Audi,SUV,61071,Certified Pre-Owned,18771.2
+2000,Toyota,Sedan,79763,New,7623.900000000001
+2007,Audi,Sedan,148309,New,11544.300000000001
+2013,Audi,Truck,151721,Used,23139.9
+2015,BMW,Coupe,173785,New,24956.0
+2013,Toyota,SUV,181481,Certified Pre-Owned,13671.2
+2011,BMW,Sedan,184838,Certified Pre-Owned,19815.0
+2018,Toyota,SUV,51154,Used,24851.0
+2014,Honda,Coupe,12016,New,22927.300000000003
+2001,Toyota,Coupe,184760,Certified Pre-Owned,11293.6
+2001,BMW,Convertible,94678,New,9234.4
+2018,Audi,Coupe,117056,New,25110.9
+2016,Toyota,Truck,59238,New,18872.100000000002
+2019,Toyota,Sedan,63608,Used,26503.4
+2009,Ford,Convertible,94081,New,19124.0
+2005,Audi,Truck,167969,Certified Pre-Owned,14712.300000000001
+2014,Honda,SUV,55961,New,19075.5
+2010,BMW,Sedan,180829,Certified Pre-Owned,12323.2
+2004,Honda,Coupe,31917,New,11952.0
+2000,Audi,Sedan,158808,Certified Pre-Owned,7461.0
+2007,Toyota,SUV,32990,Certified Pre-Owned,11985.6
+2020,Toyota,Convertible,67551,New,32510.500000000004
+2011,Audi,Convertible,194233,New,20658.600000000002
+2011,Toyota,Convertible,158512,Certified Pre-Owned,15770.400000000001
+2004,Toyota,Coupe,171277,Used,12201.2
+2006,Toyota,Truck,85811,New,11327.2
+2003,BMW,Truck,60103,Used,10646.400000000001
+2005,BMW,Sedan,177699,New,13182.400000000001
+2012,Ford,Coupe,111122,New,22028.4
+2019,Honda,Convertible,24008,New,27933.0
+2014,Audi,Convertible,37402,New,18340.8
+2002,Audi,SUV,189456,Used,16916.9
+2007,Audi,SUV,141865,New,13472.1
+2019,Ford,Convertible,141643,Certified Pre-Owned,23368.5
+2015,BMW,Convertible,152281,Certified Pre-Owned,25650.9
+2012,Ford,Coupe,118550,Used,19980.0
+2017,Audi,Truck,179220,New,28108.0
+2009,Honda,SUV,96218,Certified Pre-Owned,17712.8
+2018,Toyota,Truck,138296,Used,28532.9
+2016,BMW,Coupe,184767,New,18039.600000000002
+2018,BMW,Convertible,125779,Certified Pre-Owned,23810.0
+2004,Ford,Truck,134714,Certified Pre-Owned,11309.4
+2020,BMW,Convertible,37441,Used,36323.100000000006
+2008,Audi,Convertible,175201,New,11127.2
+2011,Audi,Sedan,67368,New,21364.0
+2020,Ford,Truck,97122,Certified Pre-Owned,23922.9
+2000,Audi,Truck,49760,Certified Pre-Owned,4221.900000000001
+2000,Honda,Convertible,28478,Certified Pre-Owned,4437.900000000001
+2014,Ford,Coupe,132881,New,20728.0
+2001,Honda,Sedan,76854,Used,11382.0
+2015,Toyota,Convertible,99230,Used,17924.8
+2007,Honda,SUV,90716,New,15471.2
+2012,Toyota,SUV,148252,Used,13625.6
+2020,Toyota,Sedan,103538,Certified Pre-Owned,27842.100000000002
+2000,Honda,Coupe,20372,Used,13836.900000000001
+2015,Ford,Convertible,34796,Used,24333.100000000002
+2006,Audi,Truck,194344,Used,11873.0
+2004,Audi,Sedan,103826,Certified Pre-Owned,13685.6
+2002,Toyota,Coupe,125592,New,10224.800000000001
+2011,Toyota,Truck,98635,Certified Pre-Owned,20622.800000000003
+2015,Ford,SUV,116022,New,15421.6
+2018,BMW,SUV,59040,New,19087.2
+2004,Honda,Truck,80357,New,12536.1
+2013,Toyota,Sedan,83356,Used,19033.600000000002
+2004,Audi,SUV,21211,Used,11441.7
+2014,Ford,Convertible,110426,New,18140.0
+2016,Honda,Truck,10842,New,21170.0
+2013,Ford,Truck,199187,Used,28249.100000000002
+2019,Honda,SUV,71852,Certified Pre-Owned,29136.600000000002
+2004,Honda,Sedan,130737,New,14638.800000000001
+2011,Toyota,Convertible,50968,Certified Pre-Owned,15715.800000000001
+2015,Ford,Sedan,22508,Used,25939.8
+2015,Ford,Coupe,158077,New,17358.3
+2020,Audi,Coupe,59575,Certified Pre-Owned,29953.0
+2006,Audi,SUV,155043,Certified Pre-Owned,11425.6
+2003,Toyota,SUV,161671,Certified Pre-Owned,8016.3
+2000,Toyota,SUV,71914,Used,5161.0
+2004,BMW,Coupe,72055,Used,7316.1
+2009,Audi,Sedan,92697,Certified Pre-Owned,15469.6
+2004,Honda,Sedan,111239,Certified Pre-Owned,9326.7
+2003,Ford,SUV,128106,Used,15151.0
+2001,Toyota,Convertible,10355,Certified Pre-Owned,8786.4
+2019,Ford,Sedan,59120,Certified Pre-Owned,23143.0
+2009,Ford,Coupe,43342,Used,16965.600000000002
+2018,BMW,Truck,7257,Certified Pre-Owned,23575.2
+2000,Audi,Truck,32364,Certified Pre-Owned,4668.400000000001
+2004,Toyota,Truck,161044,Certified Pre-Owned,9818.6
+2012,Ford,Convertible,116715,Used,21095.800000000003
+2003,Toyota,SUV,31654,Certified Pre-Owned,7340.8
+2015,Honda,Coupe,86423,Used,21601.8
+2015,BMW,Convertible,34320,Used,19886.0
+2001,Honda,Coupe,25808,New,13532.0
+2016,Toyota,Coupe,57389,New,23398.0
+2019,Toyota,SUV,123581,Certified Pre-Owned,34646.700000000004
+2011,Audi,Truck,132927,Used,19279.2
+2017,Ford,SUV,39773,New,26019.4
+2002,Ford,Convertible,187240,Certified Pre-Owned,12052.800000000001
+2000,Honda,Convertible,163819,New,4296.8
+2000,BMW,Convertible,81396,New,11135.0
+2018,Ford,SUV,112692,Used,24552.000000000004
+2010,Audi,Coupe,62505,Used,20519.4
+2004,Honda,Coupe,90896,New,11970.0
+2011,Honda,Sedan,23135,New,19584.9
+2002,Audi,Convertible,95887,Used,14139.400000000001
+2000,BMW,Coupe,127118,Certified Pre-Owned,8554.5
+2000,Audi,Sedan,52377,Used,13323.0
+2007,BMW,Coupe,159626,New,15797.7
+2009,Audi,Convertible,67491,Certified Pre-Owned,15337.800000000001
+2010,Audi,Truck,191693,New,25309.9
+2011,Toyota,Convertible,63283,Certified Pre-Owned,24747.800000000003
+2012,Honda,SUV,21923,New,18108.8
+2011,Audi,Coupe,52591,Certified Pre-Owned,17889.600000000002
+2013,Audi,Coupe,67261,Certified Pre-Owned,18712.100000000002
+2001,Ford,SUV,59336,New,4674.6
+2018,Honda,SUV,79083,Certified Pre-Owned,22083.3
+2017,Ford,Truck,65948,Used,19073.600000000002
+2002,Honda,Coupe,169074,New,6583.200000000001
+2016,Ford,Coupe,31672,Used,18407.2
+2007,Audi,Truck,9213,New,18984.0
+2009,Audi,Sedan,146365,Certified Pre-Owned,15077.0
+2001,Toyota,Truck,191932,Certified Pre-Owned,10276.0
+2018,Ford,Convertible,67507,Certified Pre-Owned,23280.3
+2008,BMW,Coupe,62134,New,13498.400000000001
+2006,Toyota,SUV,138172,Used,18635.0
+2003,Ford,Convertible,198069,Used,6567.3
+2020,Ford,Coupe,33172,New,29856.0
+2017,Toyota,Truck,25132,New,27032.4
+2012,Audi,Convertible,23199,Used,17015.0
+2010,Ford,Coupe,41609,Used,13845.6
+2003,Audi,Sedan,179037,Used,14930.1
+2020,Toyota,Sedan,144088,Used,29470.5
+2003,Audi,SUV,175851,New,8415.0
+2009,Honda,Coupe,36881,New,15695.900000000001
+2004,BMW,Sedan,29472,Certified Pre-Owned,9260.0
+2008,Ford,Truck,187885,Used,19701.0
+2002,BMW,Coupe,172093,Certified Pre-Owned,15813.600000000002
+2016,Audi,Truck,59131,New,22106.7
+2002,Ford,Truck,160159,New,11607.300000000001
+2015,Audi,Sedan,17828,Certified Pre-Owned,24672.0
+2003,Honda,Coupe,197682,Used,13852.300000000001
+2017,Toyota,Convertible,101664,Used,24439.5
+2016,Ford,Sedan,137473,Used,22988.7
+2006,Honda,Sedan,20193,Used,15516.0
+2004,Honda,Coupe,180936,Certified Pre-Owned,10146.400000000001
+2011,Ford,Coupe,156379,Certified Pre-Owned,18569.100000000002
+2016,Audi,Truck,107518,New,25841.7
+2012,Honda,Coupe,24611,Used,15847.2
+2002,BMW,Truck,179863,Used,12987.7
+2008,Honda,Sedan,148022,Used,15194.7
+2016,Audi,SUV,81240,Certified Pre-Owned,27206.0
+2016,Audi,Convertible,7745,Used,19324.0
+2019,BMW,Sedan,60243,Certified Pre-Owned,22138.4
+2015,Honda,Coupe,8866,Used,18368.100000000002
+2012,Audi,Convertible,168317,Used,23297.4
+2018,Ford,SUV,180796,New,21757.600000000002
+2016,Toyota,SUV,133681,Used,27452.0
+2003,Toyota,Truck,76354,Used,15718.0
+2011,Toyota,Convertible,56374,New,18889.2
+2008,Honda,Truck,119397,Certified Pre-Owned,11051.1
+2018,BMW,Sedan,129577,Certified Pre-Owned,25977.0
+2011,Audi,Convertible,166188,Used,19435.9
+2008,Ford,Sedan,86029,Certified Pre-Owned,19825.0
+2006,Ford,Truck,98574,Used,17948.7
+2013,Honda,Convertible,156519,New,23079.100000000002
+2019,Toyota,Truck,35431,New,30545.9
+2018,Honda,Convertible,153980,Used,29971.7
+2014,BMW,Truck,34336,New,22427.0
+2015,BMW,SUV,45992,New,22621.5
+2020,Audi,Truck,60350,Used,32530.300000000003
+2004,Audi,SUV,74561,Used,9704.800000000001
+2002,BMW,Truck,56955,New,14310.0
+2011,BMW,Convertible,66240,Certified Pre-Owned,17751.2
+2019,BMW,Convertible,156165,Certified Pre-Owned,22028.0
+2020,Honda,Convertible,142227,Used,29453.600000000002
+2003,BMW,Coupe,51607,Used,17942.100000000002
+2020,Ford,Sedan,169559,Certified Pre-Owned,31697.0
+2015,Toyota,Convertible,191740,New,27386.0
+2006,BMW,SUV,157035,Certified Pre-Owned,10662.0
+2012,Toyota,Convertible,186196,Certified Pre-Owned,22203.9
+2020,Honda,Coupe,57870,Certified Pre-Owned,32044.0
+2009,Toyota,SUV,192619,Certified Pre-Owned,13774.400000000001
+2006,Honda,Coupe,69110,Used,19615.0
+2013,Ford,SUV,189626,Used,24266.000000000004
+2004,Honda,Truck,157008,New,13874.0
+2002,Honda,Sedan,121895,New,10422.9
+2010,Audi,Sedan,9426,New,14412.6
+2010,BMW,Coupe,32606,New,14231.2
+2017,BMW,Sedan,183904,Certified Pre-Owned,27092.7
+2014,Ford,Coupe,33151,Used,25148.0
+2011,Ford,Coupe,16308,Used,25042.600000000002
+2008,BMW,Coupe,198594,New,12927.6
+2009,Audi,Sedan,181743,New,13303.2
+2011,BMW,Coupe,95306,Certified Pre-Owned,20919.0
+2016,Audi,Sedan,111984,Certified Pre-Owned,20540.0
+2005,Ford,Coupe,7204,New,16084.800000000001
+2006,Toyota,Convertible,97769,Used,14974.2
+2013,Ford,Coupe,92265,Used,17320.8
+2012,Ford,SUV,36131,Used,16609.0
+2007,Honda,Coupe,57428,New,17046.0
+2009,Honda,Truck,38870,Used,18552.600000000002
+2008,Honda,Coupe,108547,Certified Pre-Owned,11133.9
+2017,Honda,SUV,54067,Certified Pre-Owned,27998.0
+2001,Audi,SUV,194657,New,5053.5
+2004,BMW,Sedan,117217,Certified Pre-Owned,11928.800000000001
+2004,Toyota,Convertible,157679,New,12609.0
+2005,Ford,Coupe,161040,Used,10127.7
+2018,Audi,Sedan,103934,Used,26942.0
+2007,Toyota,Convertible,147980,Used,9491.2
+2015,Audi,Coupe,162495,Certified Pre-Owned,20268.0
+2012,Audi,Truck,79707,New,21108.600000000002
+2000,Ford,Coupe,66215,Used,14273.6
+2019,BMW,SUV,191907,New,24813.9
+2016,Honda,SUV,54429,Used,25229.0
+2006,BMW,Truck,87152,Certified Pre-Owned,13460.7
+2012,Ford,Sedan,113048,Certified Pre-Owned,20054.0
+2003,Ford,Convertible,174530,New,7935.0
+2003,Ford,Coupe,182241,Certified Pre-Owned,10715.2
+2005,Toyota,SUV,143731,Certified Pre-Owned,18580.100000000002
+2018,BMW,Sedan,196686,New,20092.5
+2011,BMW,Truck,82240,Used,24726.0
+2006,Audi,SUV,168865,Certified Pre-Owned,15996.6
+2009,Audi,Truck,118688,New,13488.800000000001
+2018,Audi,Coupe,51473,Certified Pre-Owned,19188.0
+2006,Ford,Convertible,101762,Certified Pre-Owned,16425.2
+2002,BMW,SUV,111956,Certified Pre-Owned,8482.4
+2012,Ford,SUV,123452,Certified Pre-Owned,15022.400000000001
+2012,Toyota,Coupe,191823,New,22915.8
+2017,Audi,Sedan,131311,New,23865.600000000002
+2019,Ford,Convertible,190326,New,24603.2
+2007,Ford,SUV,12006,Certified Pre-Owned,15078.0
+2008,Toyota,Convertible,79218,Certified Pre-Owned,10693.6
+2006,Honda,SUV,169912,Certified Pre-Owned,14042.0
+2000,BMW,Convertible,37430,New,5260.0
+2002,Honda,Truck,28091,Certified Pre-Owned,10203.2
+2012,Audi,SUV,169055,Used,19339.100000000002
+2016,Ford,Convertible,28989,Certified Pre-Owned,24184.600000000002
+2000,Toyota,Sedan,80451,Used,6240.0
+2005,Toyota,Truck,23990,Certified Pre-Owned,10372.800000000001
+2020,BMW,Truck,95270,New,28443.600000000002
+2005,Honda,Sedan,85360,Certified Pre-Owned,19052.0
+2011,BMW,Convertible,41081,Used,18871.2
+2012,Ford,Coupe,147105,Used,27547.300000000003
+2012,BMW,Sedan,113272,Certified Pre-Owned,25842.300000000003
+2014,Toyota,Convertible,21241,Used,17682.4
+2020,Toyota,Sedan,129932,Used,28683.600000000002
+2015,Audi,Sedan,10939,New,21807.9
+2020,Audi,SUV,118000,Certified Pre-Owned,29693.4
+2010,Ford,Convertible,183634,Certified Pre-Owned,17744.0
+2004,Honda,Coupe,40063,Certified Pre-Owned,10875.2
+2003,BMW,SUV,163117,Used,11624.800000000001
+2002,Ford,Sedan,180841,Certified Pre-Owned,13371.0
+2018,Audi,Sedan,52118,Certified Pre-Owned,23644.0
+2019,BMW,Sedan,89703,New,26144.0
+2017,Audi,Convertible,157697,New,23366.2
+2014,BMW,Convertible,133557,New,17668.0
+2008,Honda,SUV,32076,Used,19954.0
+2016,Ford,Coupe,49605,Certified Pre-Owned,29995.9
+2013,BMW,SUV,89565,New,24130.0
+2014,Toyota,Truck,44121,New,22345.2
+2000,Toyota,Sedan,36433,New,11125.800000000001
+2020,BMW,Sedan,48309,Certified Pre-Owned,26275.2
+2002,BMW,Sedan,72468,Certified Pre-Owned,13564.1
+2015,BMW,SUV,180326,Certified Pre-Owned,20260.8
+2010,Toyota,SUV,72293,Used,13949.1
+2011,Toyota,Sedan,101258,Used,18873.800000000003
+2009,BMW,SUV,173925,New,18162.0
+2015,Audi,Convertible,43405,Certified Pre-Owned,25342.9
+2007,Audi,Convertible,48527,New,13035.0
+2005,Honda,SUV,82227,Certified Pre-Owned,15279.300000000001
+2011,Ford,Sedan,136564,Certified Pre-Owned,14271.300000000001
+2020,Audi,SUV,144883,Certified Pre-Owned,25040.7
+2007,Toyota,SUV,98344,Used,14216.0
+2003,Audi,SUV,160344,Used,12992.800000000001
+2007,Honda,Truck,52153,Certified Pre-Owned,9038.4
+2017,Honda,Convertible,113042,New,31068.4
+2004,Ford,Coupe,59110,Certified Pre-Owned,8030.7
+2008,Audi,Coupe,150051,Certified Pre-Owned,14608.800000000001
+2003,Toyota,Truck,33328,New,12436.6
+2016,Toyota,SUV,117911,Certified Pre-Owned,18239.2
+2008,BMW,Truck,17867,New,20435.800000000003
+2000,Toyota,Truck,64234,Used,7100.0
+2020,Ford,Sedan,30851,Used,26393.4
+2019,Ford,Convertible,36279,New,29582.0
+2012,Toyota,Coupe,78402,Used,14241.6
+2015,Toyota,SUV,20449,Used,19491.3
+2012,BMW,Coupe,81221,New,17411.4
+2013,Toyota,Coupe,94080,Used,26663.0
+2002,BMW,Convertible,10451,Certified Pre-Owned,8054.1
+2005,BMW,Coupe,92178,Certified Pre-Owned,8946.9
+2017,Toyota,Coupe,177388,New,18325.600000000002
+2018,Honda,Truck,199136,Used,21469.600000000002
+2004,Honda,Convertible,68761,Certified Pre-Owned,16105.0
+2014,BMW,Sedan,43870,Certified Pre-Owned,19243.0
+2001,Toyota,SUV,101566,Used,9626.4
+2009,Honda,Coupe,128749,Used,11572.800000000001
+2017,Toyota,SUV,128765,Certified Pre-Owned,24957.0
+2012,Toyota,Sedan,129881,Certified Pre-Owned,17966.0
+2004,Toyota,SUV,166945,New,9212.5
+2000,Audi,Sedan,133389,New,4262.0
+2000,Toyota,Truck,194699,Certified Pre-Owned,7525.8
+2017,Audi,Coupe,30372,New,22001.600000000002
+2014,BMW,Sedan,8642,Certified Pre-Owned,25833.0
+2016,Honda,SUV,164073,Certified Pre-Owned,24082.300000000003
+2010,Honda,Coupe,39064,New,17684.8
+2020,Honda,Truck,19122,New,25652.0
+2016,Honda,Coupe,160892,Used,28094.000000000004
+2012,Honda,Sedan,73431,Used,19892.0
+2000,Honda,Truck,60745,Used,3679.2000000000003
+2001,Honda,SUV,55081,Certified Pre-Owned,7852.0
+2008,BMW,Truck,144783,New,11129.6
+2002,Toyota,Truck,154865,Certified Pre-Owned,13935.6
+2000,Ford,Convertible,144271,New,12792.0
+2020,Audi,Truck,81253,Certified Pre-Owned,29314.8
+2015,Ford,Truck,41191,Used,18570.4
+2005,Ford,Coupe,15211,Used,13900.7
+2016,Toyota,SUV,116086,Used,29290.0
+2004,Toyota,Coupe,199141,Certified Pre-Owned,12239.1
+2004,Toyota,Coupe,192818,New,14448.0
+2005,Honda,Sedan,157614,New,19312.7
+2002,BMW,Coupe,167384,Used,12043.800000000001
+2020,Honda,Convertible,181314,Used,26385.600000000002
+2004,BMW,Convertible,106971,Used,10412.1
+2020,BMW,Sedan,98783,Used,31707.0
+2004,Ford,SUV,130681,New,8746.0
+2009,Ford,SUV,92893,Certified Pre-Owned,21504.0
+2009,BMW,Coupe,191460,Certified Pre-Owned,17633.0
+2018,BMW,Coupe,163763,Certified Pre-Owned,18336.0
+2016,Honda,Coupe,82960,Certified Pre-Owned,26342.100000000002
+2020,Honda,SUV,89388,Used,24806.4
+2013,Ford,Truck,27601,Used,15504.800000000001
+2008,Toyota,Convertible,154092,Used,12494.400000000001
+2013,BMW,Truck,144227,Certified Pre-Owned,25989.0
+2000,Honda,Truck,172849,Used,8443.0
+2018,Ford,SUV,24710,Used,22272.0
+2012,Honda,Truck,113714,New,15995.7
+2012,BMW,Sedan,160604,New,20401.7
+2003,BMW,Coupe,133727,Used,10164.0
+2000,Audi,Sedan,154673,New,7902.0
+2016,Toyota,Convertible,68227,New,20946.0
+2007,Audi,Coupe,141039,Used,11506.0
+2001,Ford,Truck,89289,Used,9375.2
+2007,Honda,Convertible,156094,Used,15548.0
+2006,Ford,Coupe,179535,Used,14957.6
+2001,BMW,Truck,10722,Certified Pre-Owned,10224.0
+2002,Audi,Sedan,163485,Certified Pre-Owned,15022.7
+2017,Audi,Coupe,86050,Used,27049.000000000004
+2011,Audi,Truck,88596,New,14572.800000000001
+2000,Ford,Sedan,71732,Used,5464.0
+2011,BMW,Convertible,148369,Used,13851.0
+2004,Honda,Convertible,73323,New,13615.0
+2016,Honda,Convertible,28816,Certified Pre-Owned,23495.4
+2015,Ford,Convertible,45695,Used,25077.600000000002
+2014,Audi,SUV,155774,Used,18504.0
+2014,Toyota,Coupe,161314,Certified Pre-Owned,26253.7
+2004,Ford,Coupe,60841,Certified Pre-Owned,7368.8
+2020,Ford,SUV,133498,New,29808.9
+2013,BMW,Truck,112096,Certified Pre-Owned,20392.9
+2001,Honda,Truck,97764,Certified Pre-Owned,11283.2
+2010,Ford,Convertible,189646,Certified Pre-Owned,11714.400000000001
+2018,Ford,Sedan,90744,New,27623.7
+2006,Audi,Truck,33482,Certified Pre-Owned,18921.0
+2005,Audi,Sedan,14171,Certified Pre-Owned,10283.0
+2001,Toyota,Coupe,105755,New,12680.0
+2005,BMW,Sedan,113125,Certified Pre-Owned,14710.5
+2017,Toyota,Coupe,135722,Certified Pre-Owned,25386.0
+2001,Audi,SUV,111082,New,6510.900000000001
+2017,Honda,SUV,8696,Used,25672.9
+2014,Audi,Convertible,131310,New,29641.7
+2018,BMW,Truck,156130,Certified Pre-Owned,30723.000000000004
+2001,Audi,Convertible,156385,Certified Pre-Owned,8321.6
+2019,BMW,Coupe,24149,Certified Pre-Owned,31529.300000000003
+2005,BMW,Convertible,135064,New,14275.0
+2000,BMW,Sedan,58521,Certified Pre-Owned,4056.3
+2014,BMW,Coupe,50740,Certified Pre-Owned,19436.0
+2009,BMW,SUV,111611,New,23925.000000000004
+2018,Honda,Truck,141028,Used,23483.2
+2016,Toyota,Coupe,71641,Used,26967.600000000002
+2004,Ford,Coupe,68811,Certified Pre-Owned,10459.800000000001
+2003,Toyota,Sedan,188232,New,11399.0
+2009,BMW,Truck,187385,Certified Pre-Owned,16233.300000000001
+2016,Honda,SUV,68232,New,25299.9
+2009,Audi,Coupe,20417,New,15043.5
+2016,Honda,Coupe,160801,Used,27837.0
+2019,BMW,Sedan,117492,Used,26731.100000000002
+2004,Honda,Convertible,35099,New,13833.0
+2001,Honda,SUV,166033,Certified Pre-Owned,10185.0
+2005,BMW,Truck,148674,Used,8924.0
+2020,Honda,Coupe,123474,Certified Pre-Owned,30411.0
+2001,Ford,Coupe,14256,Used,9092.0
+2012,Ford,SUV,39681,Used,16692.0
+2010,Honda,Convertible,96328,Certified Pre-Owned,17025.800000000003
+2010,Audi,Coupe,48361,Used,18356.4
+2015,BMW,SUV,39540,Used,30192.800000000003
+2010,Ford,Sedan,162608,Certified Pre-Owned,14441.0
+2018,Audi,Convertible,89700,Used,22181.4
+2014,Honda,Truck,199115,Used,18567.2
+2015,Audi,Coupe,83532,Used,25533.0
+2010,Toyota,SUV,192647,Certified Pre-Owned,16809.3
+2015,Ford,Sedan,132626,New,20968.800000000003
+2007,Honda,Truck,138943,Certified Pre-Owned,16741.600000000002
+2003,BMW,SUV,51002,New,10609.5
+2007,Honda,SUV,54812,Used,19210.0
+2003,BMW,Truck,158698,New,13052.800000000001
+2002,Honda,Sedan,196051,Certified Pre-Owned,12539.7
+2002,Audi,Sedan,113946,Certified Pre-Owned,9180.800000000001
+2017,Audi,Convertible,71668,Used,23142.4
+2018,Audi,Coupe,104003,New,26488.000000000004
+2018,Toyota,Truck,47998,Used,30897.9
+2020,BMW,Truck,199886,Used,28256.4
+2004,Audi,Truck,109601,Certified Pre-Owned,19512.9
+2017,Toyota,Sedan,181679,New,23037.600000000002
+2009,BMW,Coupe,12812,New,11088.800000000001
+2020,Honda,Convertible,66844,New,35580.600000000006
+2005,Toyota,SUV,138251,New,9995.2
+2000,Ford,SUV,179870,Used,3923.2000000000003
+2004,Toyota,Truck,79601,Used,8342.1
+2008,Toyota,Coupe,144347,Certified Pre-Owned,13644.400000000001
+2011,BMW,Sedan,186646,Used,19228.0
+2013,Honda,Coupe,52857,Used,29671.4
+2001,Ford,Coupe,130555,Certified Pre-Owned,13280.4
+2016,Audi,Sedan,25700,Certified Pre-Owned,23302.4
+2013,Audi,Truck,175536,Certified Pre-Owned,20750.4
+2012,Toyota,Coupe,178423,Used,19497.5
+2008,BMW,SUV,98330,Used,16369.6
+2014,BMW,Sedan,149941,Certified Pre-Owned,19048.8
+2014,Audi,Convertible,196387,Certified Pre-Owned,18884.8
+2010,Ford,Truck,157026,Certified Pre-Owned,16160.4
+2015,Honda,Sedan,167627,Used,21088.100000000002
+2016,Ford,Convertible,68353,Used,25618.5
+2003,Honda,Convertible,181098,New,10236.6
+2000,Audi,Coupe,105772,Used,12015.0
+2007,Honda,Coupe,183048,Used,20898.0
+2016,BMW,Coupe,96502,Used,23970.4
+2002,Toyota,Sedan,118943,Certified Pre-Owned,5136.8
+2019,Toyota,Sedan,114850,Used,25686.0
+2014,Audi,Truck,50095,Certified Pre-Owned,27401.0
+2014,BMW,Coupe,150342,New,18140.0
+2013,Ford,Convertible,166980,New,28690.2
+2013,BMW,SUV,20523,Certified Pre-Owned,21373.2
+2001,Toyota,Truck,67433,Certified Pre-Owned,8882.4
+2012,Toyota,Sedan,183140,Certified Pre-Owned,13978.400000000001
+2013,BMW,Truck,24991,Used,18218.7
+2018,BMW,Truck,15775,New,21762.9
+2006,Toyota,Truck,89995,Certified Pre-Owned,21605.100000000002
+2002,Ford,Truck,197322,Used,10005.6
+2014,Audi,SUV,152745,New,19716.800000000003
+2013,Audi,Coupe,127808,Used,21425.600000000002
+2010,BMW,Convertible,163128,New,17893.8
+2014,Audi,Truck,142686,Used,19185.600000000002
+2012,Toyota,Truck,12415,New,17438.4
+2017,Toyota,Truck,179956,New,27564.3
+2005,BMW,Coupe,153036,Used,13932.0
+2002,BMW,Sedan,173798,Certified Pre-Owned,11528.800000000001
+2018,BMW,Sedan,42044,New,31846.0
+2014,Ford,SUV,193221,Certified Pre-Owned,29101.600000000002
+2004,Audi,Sedan,173616,Used,15430.5
+2009,BMW,Truck,54976,Certified Pre-Owned,17524.0
+2006,Honda,Truck,168324,Certified Pre-Owned,18214.9
+2016,Honda,Truck,8832,Certified Pre-Owned,30382.000000000004
+2006,Toyota,SUV,39148,Certified Pre-Owned,14051.400000000001
+2011,Audi,Truck,197312,Certified Pre-Owned,20673.0
+2016,BMW,Sedan,117230,New,23124.0
+2012,Honda,Coupe,90076,New,27138.100000000002
+2019,Audi,Coupe,189531,New,19482.4
+2003,Toyota,Convertible,43402,Used,12864.800000000001
+2009,Ford,Sedan,193799,Certified Pre-Owned,16854.0
+2002,Audi,Truck,43578,New,14134.0
+2008,Audi,Coupe,95453,Used,12924.0
+2012,Ford,Sedan,158390,New,19987.0
+2017,Audi,Coupe,80715,New,21204.800000000003
+2014,Toyota,Truck,116435,Certified Pre-Owned,20395.0
+2003,Toyota,Coupe,156538,Used,15220.0
+2014,Ford,Convertible,100742,Certified Pre-Owned,23603.4
+2001,BMW,Convertible,50475,Certified Pre-Owned,11566.500000000002
+2014,Honda,Coupe,65142,New,18603.0
+2007,BMW,Sedan,162636,Certified Pre-Owned,11492.0
+2007,Audi,Sedan,158484,Used,10429.2
+2016,Honda,Sedan,98526,Certified Pre-Owned,20824.2
+2011,Ford,Coupe,56001,Certified Pre-Owned,21685.5
+2018,Ford,Sedan,62649,Certified Pre-Owned,31529.300000000003
+2009,Honda,Truck,197029,New,13668.800000000001
+2008,Toyota,Convertible,171589,Used,18477.9
+2004,Honda,Truck,149228,New,13497.000000000002
+2005,Audi,Sedan,159136,New,12015.2
+2019,Toyota,Truck,30711,New,32906.0
+2001,Ford,Sedan,35106,New,5000.400000000001
+2012,Honda,Coupe,70458,New,19217.600000000002
+2005,BMW,Truck,152661,Used,13006.800000000001
+2004,BMW,Coupe,135429,Certified Pre-Owned,11567.0
+2000,Audi,Coupe,106754,New,6319.200000000001
+2020,BMW,SUV,143286,New,33524.700000000004
+2020,Honda,Sedan,131479,Used,25200.0
+2005,Honda,Convertible,163199,Used,11017.6
+2005,BMW,Sedan,141213,Certified Pre-Owned,12376.0
+2015,Honda,Convertible,33884,Used,23168.2
+2003,Audi,Sedan,7708,Certified Pre-Owned,16030.0
+2010,Toyota,Coupe,23375,New,23829.0
+2008,Audi,Truck,20088,New,16321.0
+2002,Audi,Truck,62615,Certified Pre-Owned,7596.8
+2018,Honda,SUV,115138,Used,23813.0
+2007,Toyota,Convertible,181118,Certified Pre-Owned,15530.4
+2004,Honda,Convertible,15014,Used,17643.0
+2003,Ford,Convertible,139345,New,10244.300000000001
+2005,Honda,Coupe,183207,Used,20576.600000000002
+2001,Honda,Convertible,107842,Certified Pre-Owned,6854.1
+2019,Honda,Truck,166953,Certified Pre-Owned,26269.600000000002
+2010,Toyota,Coupe,83077,New,17847.9
+2003,Honda,Sedan,144784,Used,9999.0
+2014,Toyota,Convertible,57874,Used,19296.0
+2005,BMW,Convertible,74087,Used,11750.4
+2016,Ford,Sedan,17297,New,22335.5
+2005,Toyota,Convertible,32128,Used,20806.5
+2018,BMW,Sedan,73368,Certified Pre-Owned,26057.9
+2001,Toyota,Coupe,83958,Used,11767.2
+2014,Toyota,Truck,37920,New,19725.3
+2010,Ford,Sedan,147228,Used,18972.0
+2007,Audi,SUV,147180,Used,15688.800000000001
+2018,Audi,Sedan,167917,Certified Pre-Owned,19948.800000000003
+2012,Toyota,Convertible,138872,Used,15889.6
+2011,Honda,Coupe,178784,Certified Pre-Owned,22177.8
+2004,BMW,Coupe,138682,Certified Pre-Owned,12284.1
+2005,Honda,Sedan,82603,New,13487.1
+2003,Honda,Truck,38872,Certified Pre-Owned,17991.600000000002
+2018,Toyota,SUV,15728,Certified Pre-Owned,21437.100000000002
+2019,Toyota,Coupe,100102,New,26776.2
+2000,Toyota,Convertible,127049,Certified Pre-Owned,7648.0
+2019,Toyota,Convertible,25583,New,25226.0
+2016,Audi,Truck,90774,Used,23186.9
+2011,Toyota,Coupe,143335,New,17285.4
+2014,Audi,Sedan,131374,Certified Pre-Owned,26708.000000000004
+2000,Audi,Convertible,155528,New,12358.500000000002
+2013,Toyota,Truck,96118,Certified Pre-Owned,19594.300000000003
+2005,Ford,Coupe,70942,Used,14089.0
+2004,BMW,Coupe,18689,New,8024.8
+2010,Honda,Coupe,169006,Used,20262.600000000002
+2003,Audi,Coupe,38276,Certified Pre-Owned,16095.0
+2012,BMW,Coupe,106968,Certified Pre-Owned,23159.7
+2010,Ford,Convertible,155945,Used,17919.9
+2002,Honda,Truck,18050,New,7787.7
+2000,Honda,Coupe,71216,New,7340.0
+2005,Audi,SUV,89040,Certified Pre-Owned,13500.800000000001
+2017,Toyota,SUV,26644,Used,19926.9
+2009,Ford,Truck,67021,Used,17632.8
+2004,Audi,Sedan,173197,New,13246.400000000001
+2009,Ford,Sedan,47291,New,17486.7
+2011,Toyota,Sedan,171132,New,24281.0
+2001,Toyota,SUV,137610,Used,9041.0
+2012,Audi,Sedan,172248,New,19841.800000000003
+2007,Toyota,Convertible,46520,New,16797.0
+2001,BMW,Coupe,30675,Certified Pre-Owned,7746.400000000001
+2019,Honda,SUV,154359,New,21144.600000000002
+2000,Audi,Truck,5174,New,11116.0
+2004,Ford,Truck,97268,Used,8805.6
+2008,BMW,Coupe,39998,Used,13959.0
+2016,Audi,SUV,189384,Certified Pre-Owned,26164.600000000002
+2008,Toyota,Sedan,148184,New,15539.4
+2010,Toyota,Sedan,110410,Certified Pre-Owned,18552.0
+2014,Toyota,Convertible,80225,Used,25770.800000000003
+2005,Toyota,Convertible,49814,Certified Pre-Owned,14112.9
+2002,Ford,Sedan,90091,Used,14182.300000000001
+2016,BMW,Truck,55719,Certified Pre-Owned,23714.4
+2004,Honda,Truck,134887,Certified Pre-Owned,14354.400000000001
+2011,Ford,Convertible,38919,New,17692.2
+2017,Ford,Coupe,78155,Certified Pre-Owned,30890.2
+2013,Honda,Sedan,76569,New,21482.100000000002
+2020,Honda,Convertible,46328,New,28446.3
+2010,Toyota,Convertible,29618,New,23835.9
+2008,Ford,Sedan,39675,New,16397.100000000002
+2001,Audi,Sedan,23919,Certified Pre-Owned,7627.200000000001
+2011,Honda,Truck,9173,Used,23076.9
+2002,Honda,Coupe,114369,Used,16379.000000000002
+2002,BMW,Coupe,31400,Used,8043.200000000001
+2000,Audi,Sedan,186517,Certified Pre-Owned,7658.200000000001
+2007,Audi,SUV,75305,New,12544.2
+2007,Honda,Convertible,173636,Used,12777.300000000001
+2010,Toyota,Convertible,181886,Certified Pre-Owned,15436.800000000001
+2008,BMW,Sedan,93791,New,19204.0
+2004,Audi,SUV,164034,Used,13730.0
+2013,Honda,Truck,75533,New,13700.800000000001
+2002,Audi,Sedan,192256,Used,11602.0
+2020,BMW,Sedan,108591,Used,20152.800000000003
+2004,BMW,Convertible,146650,Used,9575.1
+2004,Ford,Sedan,136060,New,10302.6
+2018,Honda,Sedan,154696,Certified Pre-Owned,34332.100000000006
+2013,BMW,Sedan,44194,New,21107.7
+2003,Ford,Convertible,114903,Used,15038.1
+2012,Ford,Truck,136461,New,24951.300000000003
+2009,Audi,Truck,104303,Certified Pre-Owned,17539.0
+2017,Audi,Sedan,118903,New,26888.4
+2007,Ford,Convertible,72391,Certified Pre-Owned,13887.0
+2007,Audi,Truck,149866,Certified Pre-Owned,20654.0
+2006,BMW,Truck,63002,New,15494.6
+2007,Toyota,Truck,40531,Used,14587.1
+2013,BMW,Convertible,188887,Certified Pre-Owned,19062.0
+2018,Ford,Convertible,9986,New,27325.100000000002
+2005,Ford,Sedan,37298,Certified Pre-Owned,20854.9
+2000,BMW,Coupe,6481,Used,9036.0
+2014,Audi,Truck,61408,New,23716.000000000004
+2000,Audi,Coupe,126950,New,8758.0
+2016,Ford,Convertible,152907,New,18563.4
+2000,Honda,Convertible,130355,Used,9915.400000000001
+2014,Audi,Convertible,32798,Certified Pre-Owned,15500.0
+2001,BMW,Coupe,96649,New,5562.900000000001
+2013,Audi,Convertible,69887,Certified Pre-Owned,20437.2
+2020,BMW,Sedan,24477,Certified Pre-Owned,19592.0
+2007,Ford,Convertible,153338,Used,16201.900000000001
+2007,Audi,SUV,132815,New,18671.4
+2018,BMW,Coupe,179598,Certified Pre-Owned,22980.600000000002
+2006,Ford,SUV,132426,New,11966.4
+2018,Honda,Convertible,147961,New,26334.000000000004
+2005,BMW,Sedan,29335,Used,15415.400000000001
+2005,Honda,Truck,147326,New,10882.0
+2002,Honda,Convertible,91610,New,9817.2
+2006,Toyota,Sedan,16442,Certified Pre-Owned,11688.300000000001
+2018,Audi,Coupe,51289,Used,22068.0
+2007,BMW,SUV,58747,New,14159.0
+2009,Honda,SUV,42327,Certified Pre-Owned,19283.0
+2019,Toyota,SUV,152271,Used,23681.0
+2014,Ford,Coupe,77827,Used,25579.4
+2014,BMW,Sedan,111464,Certified Pre-Owned,20980.300000000003
+2000,Honda,Coupe,136184,Certified Pre-Owned,6387.0
+2019,Audi,SUV,92051,Certified Pre-Owned,23123.7
+2006,Toyota,Convertible,155653,Certified Pre-Owned,21518.2
+2003,Honda,Truck,64722,Certified Pre-Owned,11340.0
+2005,Audi,Coupe,97036,New,8924.800000000001
+2000,Honda,Coupe,152595,New,11966.0
+2004,BMW,Sedan,71960,Used,8464.0
+2000,BMW,Sedan,24552,New,12382.7
+2003,BMW,Coupe,146880,New,9159.0
+2001,Toyota,SUV,159692,New,11772.0
+2009,BMW,Truck,5887,Certified Pre-Owned,11701.6
+2004,Audi,Sedan,36802,Used,16219.0
+2009,Honda,SUV,90024,Used,20080.0
+2000,Ford,Convertible,123639,Used,6583.500000000001
+2005,Audi,Sedan,123248,Used,18713.0
+2012,Audi,SUV,86938,New,22039.2
+2014,BMW,SUV,127746,New,16144.800000000001
+2003,Toyota,Truck,31049,Certified Pre-Owned,9296.0
+2012,Honda,Truck,82789,Used,18531.2
+2019,Toyota,Convertible,89526,New,20477.600000000002
+2014,Honda,SUV,143918,New,15120.800000000001
+2007,Honda,SUV,51220,Certified Pre-Owned,17060.0
+2004,Toyota,Truck,51163,Certified Pre-Owned,17290.0
+2014,Audi,Sedan,139837,Certified Pre-Owned,15741.6
+2003,Honda,Sedan,122126,New,8892.9
+2011,Toyota,Coupe,86486,New,16497.600000000002
+2012,Honda,Truck,181342,Certified Pre-Owned,21646.8
+2001,Ford,Coupe,80277,Used,5102.400000000001
+2018,Audi,Truck,109245,Certified Pre-Owned,25572.800000000003
+2018,BMW,Convertible,127332,Certified Pre-Owned,22120.0
+2003,Honda,SUV,27931,Certified Pre-Owned,10463.2
+2003,Ford,Convertible,94116,Certified Pre-Owned,16456.0
+2010,BMW,Truck,60633,New,18932.4
+2004,BMW,SUV,56913,Used,15935.7
+2019,Honda,Sedan,99776,Certified Pre-Owned,21652.2
+2010,Toyota,Sedan,30991,Used,17652.800000000003
+2009,Honda,Coupe,190917,Used,15292.0
+2007,Ford,Truck,109092,Used,15248.0
+2005,BMW,Truck,191384,Certified Pre-Owned,11476.0
+2005,Honda,Sedan,146633,New,12242.7
+2007,Toyota,Convertible,152973,Certified Pre-Owned,14553.0
+2014,Honda,SUV,100556,Used,25157.7
